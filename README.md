@@ -27,13 +27,23 @@ A little weird fun fact is that as a programmer I have a lot more of knowledge i
 <br/>
 I'm on this for 5 years, but only started doing it for real some months ago (before I didn't even store my projects on github), so I guess it makes sense? 
 
-### Contact-me
+Check out [my website, btw ;)](viktor95801.github.io)
 
-If you want small talk, add me on discord. Please no NSFW stuff. My nickname there is `viktor_hg`.
+That's a good section, but we can definitely make it more concise and inviting! Here are a few options, ranging from more direct to slightly more elaborate, depending on the tone you want:
 
-I can speak english half-decently, my true native language is Brazilian Portuguese. 🇧🇷
+Option 1 (Direct & Clear)
 
-If you also want help with something programming-related, I encourage you to contact me - not because I know everything, but because helping people is always a good thing and you can always earn so much (learn, if you will so) by trying to help someone with somethig.
+Contact Me
+
+Got a quick question, wanna chat, or need some programming help? Find me on Discord: viktor_hg. (Please, no NSFW content.)
+
+I speak Brazilian Portuguese 🇧🇷 (my native language) and can get by in English.
+
+### Get in touch
+
+For small talk, programming discussions, or if you're looking for assitance with a coding problem/challenge, feel free to reaach out on Discord: `viktor_hg`. (Just a heads-up: no NSFW!!)
+My native language is Portuguese 🇧🇷, but I have a good grasp of English as well. I'm always eager to help, as I believe we can all learn from tackling problems together :D
+Believe me when I say it, you can earn by giving... Seems weird, but it makes sense after some time thinking about it.
 
 ###
 

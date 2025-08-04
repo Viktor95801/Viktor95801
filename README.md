@@ -33,6 +33,8 @@ If you want small talk, add me on discord. Please no NSFW stuff. My nickname the
 
 I can speak english half-decently, my true native language is Brazilian Portuguese. 🇧🇷
 
+If you also want help with something programming-related, I encourage you to contact me - not because I know everything, but because helping people is always a good thing and you can always earn so much (learn, if you will so) by trying to help someone with somethig.
+
 ###
 
 <h3 align="left">🔥 Stats </h3>

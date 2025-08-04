@@ -27,7 +27,7 @@ A little weird fun fact is that as a programmer I have a lot more of knowledge i
 <br/>
 I'm on this for 5 years, but only started doing it for real some months ago (before I didn't even store my projects on github), so I guess it makes sense? 
 
-# Contact-me
+### Contact-me
 
 If you want to talk a bit, add me on discord. Please no NSFW stuff. My nickname there is `viktor_hg`
 

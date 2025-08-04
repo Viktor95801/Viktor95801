@@ -29,16 +29,6 @@ I'm on this for 5 years, but only started doing it for real some months ago (bef
 
 Check out [my website, btw ;)](viktor95801.github.io)
 
-That's a good section, but we can definitely make it more concise and inviting! Here are a few options, ranging from more direct to slightly more elaborate, depending on the tone you want:
-
-Option 1 (Direct & Clear)
-
-Contact Me
-
-Got a quick question, wanna chat, or need some programming help? Find me on Discord: viktor_hg. (Please, no NSFW content.)
-
-I speak Brazilian Portuguese 🇧🇷 (my native language) and can get by in English.
-
 ### Get in touch
 
 For small talk, programming discussions, or if you're looking for assitance with a coding problem/challenge, feel free to reaach out on Discord: `viktor_hg`. (Just a heads-up: no NSFW!!)

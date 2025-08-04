@@ -29,7 +29,9 @@ I'm on this for 5 years, but only started doing it for real some months ago (bef
 
 ### Contact-me
 
-If you want to talk a bit, add me on discord. Please no NSFW stuff. My nickname there is `viktor_hg`
+If you want small talk, add me on discord. Please no NSFW stuff. My nickname there is `viktor_hg`.
+
+I can speak english half-decently, my true native language is Brazilian Portuguese. 🇧🇷
 
 ###
 

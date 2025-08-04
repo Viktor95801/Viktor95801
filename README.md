@@ -23,6 +23,14 @@ Currently trying to make:
   * UI library (similar to [clay.h](github.com/nicbarker/clay/blob/main/clay.h)) for C in C (because using other's software is bad and ofc I need to make my own UI layout library if I want to work with GUIs)
   * WebSite so I can record my progress with blogs and maybe teach others :P
 
+A little weird fun fact is that as a programmer I have a lot more of knowledge in theory than in practice, but I'm trying to change this xD
+<br/>
+I'm on this for 5 years, but only started doing it for real some months ago (before I didn't even store my projects on github), so I guess it makes sense? 
+
+# Contact-me
+
+If you want to talk a bit, add me on discord. Please no NSFW stuff. My nickname there is `viktor_hg`
+
 ###
 
 <h3 align="left">🔥 Stats </h3>

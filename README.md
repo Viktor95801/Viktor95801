@@ -12,6 +12,19 @@
 
 ###
 
+I quite enjoy writing low-level code, so don't be surprised if you see me making projects in assembly or stuff like that xD
+<br/>
+#1 OOP hater
+<br/><br/>
+
+Currently trying to make:
+  * Text Editor written entirely from scratch with C and support for plugins
+  * Programming language
+  * UI library (similar to [clay.h](github.com/nicbarker/clay/blob/main/clay.h)) for C in C (because using other's software is bad and ofc I need to make my own UI layout library if I want to work with GUIs)
+  * WebSite so I can record my progress with blogs and maybe teach others :P
+
+###
+
 <h3 align="left">🔥 Stats </h3>
 
 ###
